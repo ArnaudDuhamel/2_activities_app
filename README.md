@@ -1,4 +1,4 @@
-# Android BMI calculator app with Jetpack Compose
+# Sample Android app naviguating between 2 activities
 
 This application is based on the tutorial at this link: https://www.geeksforgeeks.org/start-a-new-activity-using-intent-in-android-using-jetpack-compose/
 
